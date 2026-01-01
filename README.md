@@ -20,6 +20,10 @@
 - Login and see data is coming properly in the store
 - NavBar sholud update as soon as user logs in 
 - Refactor folder structure 
+- Should not be access other routes without login(protected routes)
+- if token is not present redirect user to login page
+- Logout feature 
+- Profile Page 
 
 
 
