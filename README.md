@@ -24,6 +24,13 @@
 - if token is not present redirect user to login page
 - Logout feature 
 - Profile Page 
+- Get the feed and and the feed in the store 
+- bulid user card on feed 
+- Edit profile feature
+- Show Toast message on Save profile 
+- New page for See all my connections 
+- New page for See all ny connection Requests
+
 
 
 
