@@ -30,7 +30,25 @@
 - Show Toast message on Save profile 
 - New page for See all my connections 
 - New page for See all ny connection Requests
+- Feature- Accept/Reject Connection Request
 
+- Send/ignore the user card from Feed
+- Signup New User
+- E2E Testing 
+
+
+# Deployment
+ - signup on AWS
+ - Launch instance
+ - chmod 400 <secret>.pem
+ - ssh -i "dec-Tinder-secret.pem" ubuntu@ec2-54-206-86-145 ap-southeast-2.compute.amazonaws.com
+ - Install Node version 24.11.1
+ - Git clone backend and frontend files 
+
+- Frontend
+  - npm install  => install dependencies
+  - npm run build
+  - 
 
 
 
